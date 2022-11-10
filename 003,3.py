@@ -10,5 +10,7 @@ v2 = int(input('Digite outro numero: '))
 #print(type(v2))
 resultado_soma = v1 + v2
 
-print('a soma entre',v1,'e',v2,'é igual a',resultado_soma)
+#print('a soma entre',v1,'e',v2,'é igual a',resultado_soma)
+print('A soma entre {} e {} vale {} !'.format(v1, v2, resultado_soma)) #possivel fazer assim
+#print('A soma entre {0} e {1} vale {2} !'.format(v1, v2, resultado_soma)) #possivel fazer assim tb
 

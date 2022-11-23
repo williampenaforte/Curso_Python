@@ -1,5 +1,6 @@
 # exercicios py
 # william pena
+
 # escreva um programa que leia um valor em metros e o exiba convertido em centrimetros e milimetros
 
 medida = float(input('Digite uma distância em  metros: '))

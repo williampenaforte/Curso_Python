@@ -1,6 +1,6 @@
-# exercícios python, william pena forte 09-11-2022
+# exercícios python, william pena forte 09-11-2022.
 
-# o exercicio deve coletar dois numeros e somalos
+# o exercicio deve coletar dois numeros e somalos.
 
 v1 = input('Digite um numero')
 v2 = input('Digite outro numero')

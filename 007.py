@@ -1,5 +1,5 @@
-# exercícios python
-# william pena forte 11-11-2022
+# exercícios python.
+# william pena forte 11-11-2022.
 
 # desenvolva um programa que leia as mduas notas de um aluno, calcule e mostre sua media.
 

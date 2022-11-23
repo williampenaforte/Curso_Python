@@ -3,6 +3,3 @@
 #primeiros comandos
 
 print('ola mundo')
-
-
-

@@ -1,5 +1,5 @@
-# exercícios py
-# william pena forte 23-11-2022
+# exercícios py.
+# william pena forte 23-11-2022.
 
 # crie um programa q leia quanto dinheiro uma pesosa tem na carteira e mostre quantos dolares ela pode comprar. 
 # considere USS1,00 = RS5,39

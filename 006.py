@@ -1,5 +1,5 @@
-# exercícios python
-# william pena forte 11-11-2022
+# exercícios python.
+# william pena forte 11-11-2022.
 
 # crie um algoritimo que leia um numero e mostre o seu dobro, triplo e sua raiz quadrada.
 

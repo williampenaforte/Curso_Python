@@ -1,5 +1,5 @@
-#exercicios py
-#william 23-11-22
+#exercicios py.
+#william 23-11-22.
 
 # faca um algoritimo que leia o preço de uma produto e mostre seu novo preço, com 5% de desconto.
 

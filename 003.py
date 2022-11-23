@@ -1,5 +1,5 @@
-# exercícios python
-# william pena forte 09-11-2022
+# exercícios python, william pena forte 09-11-2022
+
 # o exercicio deve coletar dois numeros e somalos
 # continuação sobre o exercicio ex003 que ficou com erro
 # concatenando

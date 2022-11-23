@@ -1,5 +1,5 @@
-# exercícios python
-# william pena forte 09-11-2022
+# exercícios python.
+# william pena forte 09-11-2022.
 
 a = input('digite algo: ')
 

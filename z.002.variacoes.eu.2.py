@@ -1,3 +1,5 @@
+#exericio py, william pena forte
+
 dia_str = input ('Qual o dia do seu nascimento?')
 mes_str = input ('Qual o mes do seu nascimento?')
 ano_str = input ('Qual o ano do seu nascimento?')

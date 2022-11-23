@@ -1,3 +1,5 @@
+#exercico py william pena
+
 n = float(input('digite um numero: '))
 
 #d = n * 2

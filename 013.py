@@ -1,5 +1,5 @@
-#exercicios py
-#william 23-11-22
+#exercicios py.
+#william 23-11-22.
 
 # faça um algoritimo que leia o salario de um funcionario e mostre seu novo salario com 15% de aumento.
 

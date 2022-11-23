@@ -1,4 +1,4 @@
-# exercícios python
+# exercícios python.
 # william pena forte 09-11-2022
 # apos estudar aula 06 do curso https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 

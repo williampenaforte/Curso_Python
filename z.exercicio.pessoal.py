@@ -1,4 +1,4 @@
-# exercícios python
+# exercícios python.
 # william pena forte 11-11-2022
 # exemplo operador atiritimetico
 

@@ -3,4 +3,5 @@
 #Quinnto exemplo importação, importanto emoji
 #o mesmo precisa ser instalado! atraves da lampada do pycharm
 
-
+import emoji
+print(emoji.emojize('Python is :thumbs_up:'))

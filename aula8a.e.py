@@ -4,4 +4,4 @@
 #o mesmo precisa ser instalado! atraves da lampada do pycharm
 
 import emoji
-print(emoji.emojize('Python is :thumbs_up:'))
+print(emoji.emojize('Olá, Mundo :thumbs_up:'))

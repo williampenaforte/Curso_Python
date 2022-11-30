@@ -4,3 +4,11 @@
 #exemplo digite um numero:. 6.127 --- O numero 6.127 tem a parte inteira 6
 #dica ver todas as classes do modulo "math"
 
+import math
+
+n = float(input('escreva um numero float:.'))
+
+
+
+
+

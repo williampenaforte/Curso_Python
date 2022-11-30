@@ -4,4 +4,4 @@
 #o mesmo precisa ser instalado! atraves da lampada do pycharm
 
 import emoji
-print(emoji.emojize('Olá, Mundo :thumbs_up:'))
+print(emoji.emojize("Olá, Mundo :earth_americas:", use_aliases=True))

@@ -1,4 +1,4 @@
-#O math.sqrt()método por exemplo, retorna a raiz quadrada de um número:
+#O math.sqrt() método por exemplo que retorna a raiz quadrada de um número:
 
 import math
 

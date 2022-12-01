@@ -6,7 +6,9 @@
 
 import math
 
-n = float(input('escreva um numero float:.'))
+n = float(input('informe um numero de ponto flutuante:. '))
+
+print(math.floor(n))
 
 
 

@@ -11,12 +11,18 @@ hi = (co ** 2 + ca ** 2) ** (1/2)
 
 print('a hipotenusa vai valer {:.2f}'.format(hi)) #resultado de 2 por 2.5 = 3.20 via calculos matematicos...'''
 
-#usando classes
+'''usando classes
 import math
 co = float(input(('comprimento do catato oposto')))
 ca = float(input('comprimento do catato adjacente'))
 hi = math.hypot(co,ca)
-print('a hipotenusa vai medir {:.2f}'.format(hi))
+print('a hipotenusa vai medir {:.2f}'.format(hi))'''
 
+#importanto apenas o hypot
+from math import hypot
+co = float(input(('comprimento do catato oposto')))
+ca = float(input('comprimento do catato adjacente'))
+hi = hypot(co,ca)
+print('a hipotenusa vai medir {:.2f}'.format(hi))
 
 

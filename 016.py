@@ -7,8 +7,10 @@
 import math
 
 n = float(input('informe um numero de ponto flutuante:. '))
+#nn = math.floor(n) #obs tive o mesmo resultado!
+nn = math.trunc(n)
 
-print(math.floor(n))
+print('o valor digitado foi {} e sua porção inteira e {}'.format(n,nn))
 
 
 

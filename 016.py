@@ -4,11 +4,14 @@
 #exemplo digite um numero:. 6.127 --- O numero 6.127 tem a parte inteira 6
 #dica ver todas as classes do modulo "math"
 
-import math
+#import math
+
+from math import trunc
+from math import floor
 
 n = float(input('informe um numero de ponto flutuante:. '))
-#nn = math.floor(n) #obs tive o mesmo resultado!
-nn = math.trunc(n)
+nn = floor(n) #obs tive o mesmo resultado!
+#nn = trunc(n)
 
 print('o valor digitado foi {} e sua porção inteira e {}'.format(n,nn))
 

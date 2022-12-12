@@ -3,3 +3,5 @@
 #Faça um programa em python que abra e reproduza o audio de uma arquivo mp3
 
 #use modulos kkk...
+
+import pygame
